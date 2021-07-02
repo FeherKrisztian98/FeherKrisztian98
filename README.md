@@ -2,4 +2,4 @@
 - 👀 I’m interested in Laravel
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me feherkrisztian98@protonmail.cpom
+- 📫 How to reach me feherkrisztian98@protonmail.com
